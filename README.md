@@ -1,25 +1,39 @@
-🚀 Core Java Mastery Repository
-💻 Beginner → Intermediate Java Programs | Logic Building | OOP Foundations
-<p align="center"> <img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java"> <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Focus-Logic%20Building-green?style=for-the-badge"> <img src="https://img.shields.io/github/stars/Ravularamesh74/Ajp-course?style=for-the-badge"> </p>
-📌 About This Repository
+<h1 align="center">🚀 Core Java Mastery</h1>
+<h3 align="center">💻 Beginner → Intermediate Java Programs | Logic Building</h3>
 
-This repository is a well-structured collection of Core Java programs designed to:
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Logic%20Building-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Ravularamesh74/Ajp-course?style=for-the-badge">
+</p>
 
-✔ Build strong programming fundamentals
-✔ Improve logical thinking
-✔ Practice real coding problems
-✔ Prepare for interviews & internships
+---
 
-🧠 What You'll Learn
+## 📌 About This Repository
 
-✨ Java Basics
-✨ Operators & Expressions
-✨ Control Flow Statements
-✨ Looping Techniques
-✨ Problem-Solving Logic
-✨ Object-Oriented Programming (OOP)
+This repository contains a collection of **Core Java programs** focused on:
 
-📂 Project Structure
+- ✔ Building strong programming fundamentals  
+- ✔ Improving logical thinking  
+- ✔ Practicing real coding problems  
+- ✔ Preparing for interviews & internships  
+
+---
+
+## 🧠 What You'll Learn
+
+- ✨ Java Basics  
+- ✨ Operators & Expressions  
+- ✨ Control Flow Statements  
+- ✨ Looping Techniques  
+- ✨ Problem-Solving Logic  
+- ✨ Object-Oriented Programming (OOP)  
+
+---
+## 📂 Project Structure
+
+```
 📁 Core-Java/
 │
 ├── 🔰 Basics
@@ -54,61 +68,77 @@ This repository is a well-structured collection of Core Java programs designed t
 │   ├── results.java
 │
 └── 📄 assign.java
-⚙️ Tech Stack
-Technology	Description
-☕ Java	Core programming language
-🖥 JDK 8+	Java Development Kit
-💻 VS Code / IntelliJ	Development Environment
-🚀 Getting Started
-🔹 Clone Repository
+```
+
+## ⚙️ Tech Stack
+
+- ☕ Java (JDK 8+)  
+- 💻 VS Code / IntelliJ / Eclipse  
+- 🖥 Command Line  
+
+---
+
+## 🚀 Getting Started
+
+### 🔹 Clone Repository
+
+```bash
 git clone https://github.com/Ravularamesh74/Ajp-course.git
 cd Ajp-course
+
 🔹 Compile Program
 javac FileName.java
+
 🔹 Run Program
 java FileName
+
 💡 Featured Programs
 🔢 Fibonacci Series
-Generates sequence using loops
-🔁 Palindrome Checker
-Checks if number/string is same reversed
-📊 Multiplication Table
-Dynamic table generation
-📐 Geometry Calculations
-Circle & Rectangle area calculations
-🧑‍🎓 OOP Models
-Student & Customer data handling
-🎯 Key Highlights
 
+Generates sequence using loops
+
+🔁 Palindrome Checker
+
+Checks if input is same when reversed
+
+📊 Multiplication Table
+
+Creates dynamic tables
+
+📐 Geometry Calculations
+
+Circle & Rectangle area
+
+🧑‍🎓 OOP Models
+
+Student & Customer data handling
+
+🎯 Key Highlights
 🔥 Beginner-friendly structure
 🔥 Clean and readable code
-🔥 Covers 90% of Java basics
+🔥 Covers major Java fundamentals
 🔥 Strong focus on logic building
-🔥 Perfect for interview prep
-
+🔥 Ideal for interview preparation
 📈 Future Enhancements
-
-🚀 Add Advanced Java (JDBC, Servlets)
-🚀 Add Mini Projects
-🚀 Add GUI Applications
-🚀 Add Spring Boot APIs
-
+🚀 Advanced Java (JDBC, Servlets)
+🚀 Mini Projects
+🚀 GUI Applications
+🚀 Spring Boot APIs
 🤝 Contributing
 
 Contributions are welcome!
 
-1. Fork the repo
-2. Create a new branch
-3. Commit your changes
-4. Push and create PR
+Fork the repository
+Create a new branch
+Commit changes
+Submit a Pull Request
 👨‍💻 Author
 
 Ravula Ramesh
 
-🔗 GitHub:
-https://github.com/Ravularamesh74
+🔗 https://github.com/Ravularamesh74
 
-🌟 Show Your Support
+🌟 Support
 
 If you like this project:
 
@@ -119,3 +149,9 @@ If you like this project:
 🏆 Final Note
 
 "Mastering Java is not about syntax — it's about logic." 💡
+
+
+
+
+
+
