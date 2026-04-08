@@ -85,12 +85,16 @@ This repository contains a collection of **Core Java programs** focused on:
 ```bash
 git clone https://github.com/Ravularamesh74/Ajp-course.git
 cd Ajp-course
+ 
+```
+```
 
 🔹 Compile Program
 javac FileName.java
 
 🔹 Run Program
 java FileName
+ ```
 
 💡 Featured Programs
 🔢 Fibonacci Series
@@ -110,6 +114,7 @@ Creates dynamic tables
 Circle & Rectangle area
 
 🧑‍🎓 OOP Models
+```
 
 Student & Customer data handling
 
@@ -125,6 +130,7 @@ Student & Customer data handling
 🚀 GUI Applications
 🚀 Spring Boot APIs
 🤝 Contributing
+```
 
 Contributions are welcome!
 
@@ -147,11 +153,9 @@ If you like this project:
 📢 Share it
 
 🏆 Final Note
+```
+
 
 "Mastering Java is not about syntax — it's about logic." 💡
 
-
-
-
-
-
+```
